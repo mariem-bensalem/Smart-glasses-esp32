@@ -90,7 +90,7 @@ via a WiFi-connected web interface.
 6. Press "Start Voice Alerts" on the dashboard
 7. Wear the glasses and navigate safely 
 
-> ⚠️ Note: The web interface is accessible only on 
+> Note: The web interface is accessible only on 
 > devices connected to the same WiFi network as the ESP32.
 
 
@@ -113,5 +113,3 @@ Embedded Systems & IoT Student
 📍 Bizerte, Tunisia
 
 
-This project is open source under the MIT License.
-Feel free to use, modify, and improve it! 🙌
